@@ -17,7 +17,7 @@ Project นี้เป็นส่วนหนึ่งของวิชา DA
 4.xxxxxxxxxxx
 
 #การเติบโตของการขนส่งระบบราง
-![Chonlaphat su_pic](https://github.com/user-attachments/assets/2462a9f5-bb26-4ede-b0a5-da7ab6da195d)
+
 
 
 
